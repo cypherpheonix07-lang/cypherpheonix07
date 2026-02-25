@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/💻+Status-Open+To+Work-00FF00?style=for-the-badge" alt="Status"/>
 </p>
 
-<!-- ✨ DECORATIVE DIVIDER -->
+<!-- ✨ ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MWI/giphy.gif" width="80" alt="Sparkles"/>
 </p>
@@ -82,58 +82,84 @@
 
 ---
 
-## 📊 SKILL PROFICIENCY - VISUAL ANALYTICS
+##  ANIMATED TECHNICAL BREAKDOWN
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+Skill+Proficiency+Analytics+%F0%9F%93%88" alt="Skills Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%93%88+Animated+Technical+Breakdown+%F0%9F%93%88;Real-Time+Skill+Analytics+%26+Metrics" alt="Technical Breakdown Header" />
 </p>
 
-### 🎯 Technical Skills Breakdown
+### 🎯 Animated Skill Visualization
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Prompt+Engineering+-+95%25+Expert;Development+%26+Programming+-+92%25+Advanced;Cybersecurity+-+85%25+Advanced;Design+%26+Tools+-+88%25+Proficient" alt="Skill Animation" />
+</p>
+
+### 📊 Skill Proficiency Matrix
 
 <div align="center">
 
 **🤖 AI & Prompt Engineering**
 
-| Skill | Proficiency | Level |
+| Skill | Animated Progress | Proficiency |
 |:---|:---|:---|
-| Prompt Engineering | ████████████████████ | 95% Expert |
-| AI Mechanism Analysis | ██████████████████░ | 90% Advanced |
-| LLM Architecture | █████████████████░░ | 88% Advanced |
-| AI Tool Integration | ██████████████████░ | 92% Expert |
+| Prompt Engineering | <img src="https://img.shields.io/badge/Progress-95%25-00FFFF?style=flat-square" alt="Progress"/> | Expert |
+| AI Mechanism Analysis | <img src="https://img.shields.io/badge/Progress-90%25-FF6B6B?style=flat-square" alt="Progress"/> | Advanced |
+| LLM Architecture | <img src="https://img.shields.io/badge/Progress-88%25-4ECDC4?style=flat-square" alt="Progress"/> | Advanced |
+| AI Tool Integration | <img src="https://img.shields.io/badge/Progress-92%25-FFE66D?style=flat-square" alt="Progress"/> | Expert |
 
 **💻 Development & Programming**
 
-| Skill | Proficiency | Level |
+| Skill | Animated Progress | Proficiency |
 |:---|:---|:---|
-| React JSX Development | ██████████████████░ | 92% Advanced |
-| Python Programming | █████████████████░░ | 87% Advanced |
-| JavaScript ES6+ | █████████████████░░ | 85% Advanced |
-| Full Stack Development | █████████████████░░ | 88% Advanced |
+| React JSX Development | <img src="https://img.shields.io/badge/Progress-92%25-61DAFB?style=flat-square" alt="Progress"/> | Advanced |
+| Python Programming | <img src="https://img.shields.io/badge/Progress-87%25-3776AB?style=flat-square" alt="Progress"/> | Advanced |
+| JavaScript ES6+ | <img src="https://img.shields.io/badge/Progress-85%25-F7DF1E?style=flat-square" alt="Progress"/> | Advanced |
+| Full Stack Development | <img src="https://img.shields.io/badge/Progress-88%25-4ECDC4?style=flat-square" alt="Progress"/> | Advanced |
 
 **🛡️ Cybersecurity**
 
-| Skill | Proficiency | Level |
+| Skill | Animated Progress | Proficiency |
 |:---|:---|:---|
-| Ethical Hacking | █████████████████░░ | 85% Advanced |
-| Threat Detection & Analysis | ████████████████░░ | 82% Proficient |
-| Vulnerability Assessment | ████████████████░░ | 80% Proficient |
-| Network Security | ███████████████░░░ | 78% Intermediate |
+| Ethical Hacking | <img src="https://img.shields.io/badge/Progress-85%25-FF6B9D?style=flat-square" alt="Progress"/> | Advanced |
+| Threat Detection | <img src="https://img.shields.io/badge/Progress-82%25-C44569?style=flat-square" alt="Progress"/> | Proficient |
+| Vulnerability Assessment | <img src="https://img.shields.io/badge/Progress-80%25-F8B500?style=flat-square" alt="Progress"/> | Proficient |
+| Network Security | <img src="https://img.shields.io/badge/Progress-78%25-6C5CE7?style=flat-square" alt="Progress"/> | Intermediate |
 
 **🎨 Design & Tools**
 
-| Skill | Proficiency | Level |
+| Skill | Animated Progress | Proficiency |
 |:---|:---|:---|
-| UI/UX Design | █████████████████░░ | 85% Advanced |
-| Git Version Control | █████████████████░░ | 88% Advanced |
-| Linux System Administration | ████████████████░░ | 82% Proficient |
-| Docker & DevOps | ████████████████░░ | 80% Proficient |
+| UI/UX Design | <img src="https://img.shields.io/badge/Progress-85%25-A29BFE?style=flat-square" alt="Progress"/> | Advanced |
+| Git Version Control | <img src="https://img.shields.io/badge/Progress-88%25-F05032?style=flat-square" alt="Progress"/> | Advanced |
+| Linux Administration | <img src="https://img.shields.io/badge/Progress-82%25-FCC624?style=flat-square" alt="Progress"/> | Proficient |
+| Docker & DevOps | <img src="https://img.shields.io/badge/Progress-80%25-2496ED?style=flat-square" alt="Progress"/> | Proficient |
 
 </div>
+
+### 🎬 Animated Code Snippets
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=4ECDC4&center=true&vCenter=true&width=800&lines=const+aiDecoder+=+(tool)+%3D%3E+%7B;++return+tool.mechanism.decode();%7D;++%2F%2F+Decoding+AI...++%F0%9F%94%93" alt="Code Animation 1" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=async+function+promptEngineering(input)+%7B;++const+optimized+=+await+optimize(input);++return+optimized;%7D;++%2F%2F+Optimizing...++%E2%9A%A1" alt="Code Animation 2" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=class+CybersecurityExpert+%7B;++scanVulnerabilities(target)+%7B++return+threatAnalysis(target);++%7D%7D;++%2F%2F+Securing...++%F0%9F%9B%A1%EF%B8%8F" alt="Code Animation 3" />
+</p>
 
 ### 📊 Overall Skill Distribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=donut&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Language Distribution" height="350"/>
+</p>
+
+### 🔥 Animated Skill Bars
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=600&color=FFE66D&center=true&vCenter=true&width=600&lines=Python++++++++++++++%7C+████████████████████+%7C+92%25;JavaScript++++++++%7C+██████████████████░░+%7C+85%25;React+++++++++++++++%7C+██████████████████░░+%7C+92%25;AI%2FML++++++++++++++%7C+███████████████████░+%7C+90%25;Cybersecurity+++++%7C+████████████████░░░░+%7C+85%25;Linux+++++++++++++++%7C+████████████████░░░░+%7C+82%25" alt="Animated Skill Bars" />
 </p>
 
 ---
