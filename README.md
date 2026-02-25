@@ -1,6 +1,6 @@
-<!-- 🎨 MAIN HEADER -->
+<!-- 🎨 MAIN HEADER - ANIMATED -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=80&lines=👋+Welcome+to+My+Universe;🔮+Vibecoder+%7C+Prompt+Engineer;🧬+AI+Mechanism+Decoder;🛡️+Cybersecurity+Specialist" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=👋+Welcome+to+My+Universe;🔮+Vibecoder+%7C+Prompt+Engineer;🧬+AI+Mechanism+Decoder;🛡️+Cybersecurity+Specialist" alt="Animated Header" />
 </p>
 
 <!-- 🌟 ANIMATED BANNER -->
@@ -21,7 +21,7 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=I+don't+just+use+AI...+I+DECODE+it+%F0%9F%94%93;Building+the+future+with+code+%26+creativity+%E2%9A%A1" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=I+don't+just+use+AI...+I+DECODE+it+%F0%9F%94%93;Building+the+future+with+code+%26+creativity+%E2%9A%A1" alt="About Me" />
 </p>
 
 <div align="center">
@@ -39,7 +39,7 @@
 ## 📊 GITHUB METRICS DASHBOARD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+GitHub+Metrics+%26+Analytics+%F0%9F%93%88" alt="Metrics Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+GitHub+Metrics+%26+Analytics+%F0%9F%93%88" alt="Metrics Header" />
 </p>
 
 ### 📈 Overall Performance Stats
@@ -74,10 +74,10 @@
 
 ---
 
-## 🎯 COLORFUL STATS CARDS
+## 🎨 COLORFUL STATS CARDS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+Colorful+Stats+Cards+%F0%9F%8E%A8" alt="Stats Cards Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+Colorful+Stats+Cards+%F0%9F%8E%A8" alt="Stats Cards Header" />
 </p>
 
 <p align="center">
@@ -141,13 +141,13 @@
 ## 📊 ANIMATED TECHNICAL BREAKDOWN
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%93%88+Animated+Technical+Breakdown+%F0%9F%93%88" alt="Technical Breakdown Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%93%88+Animated+Technical+Breakdown+%F0%9F%93%88" alt="Technical Breakdown Header" />
 </p>
 
 ### 🎯 Animated Skill Visualization
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Prompt+Engineering+-+95%25+Expert;Development+%26+Programming+-+92%25+Advanced;Cybersecurity+-+85%25+Advanced" alt="Skill Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Prompt+Engineering+-+95%25+Expert;Development+%26+Programming+-+92%25+Advanced;Cybersecurity+-+85%25+Advanced" alt="Skill Animation" />
 </p>
 
 ### 📊 Skill Proficiency Matrix
@@ -186,17 +186,17 @@
 ### 🎬 Animated Code Snippets
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=4ECDC4&center=true&vCenter=true&width=800&lines=const+aiDecoder+=+(tool)+%3D%3E+%7B++return+tool.mechanism.decode();%7D;++%2F%2F+Decoding+AI...++%F0%9F%94%93" alt="Code Animation 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=4ECDC4&center=true&vCenter=true&width=800&lines=const+aiDecoder+=+(tool)+%3D%3E+%7B++return+tool.mechanism.decode();%7D;++%2F%2F+Decoding+AI...++%F0%9F%94%93" alt="Code Animation 1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=async+function+promptEngineering(input)+%7B++const+optimized+=+await+optimize(input);++return+optimized;%7D;++%2F%2F+Optimizing...++%E2%9A%A1" alt="Code Animation 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=async+function+promptEngineering(input)+%7B++const+optimized+=+await+optimize(input);++return+optimized;%7D;++%2F%2F+Optimizing...++%E2%9A%A1" alt="Code Animation 2" />
 </p>
 
 ### 🔥 Animated Skill Bars
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=600&color=FFE66D&center=true&vCenter=true&width=600&lines=Python++++++++++++++%7C+████████████████████+%7C+92%25;JavaScript++++++++%7C+██████████████████░░+%7C+85%25;React+++++++++++++++%7C+██████████████████░░+%7C+92%25;AI%2FML++++++++++++++%7C+███████████████████░+%7C+90%25;Cybersecurity+++++%7C+████████████████░░░░+%7C+85%25" alt="Animated Skill Bars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&color=FFE66D&center=true&vCenter=true&width=600&lines=Python++++++++++++++%7C+████████████████████+%7C+92%25;JavaScript++++++++%7C+██████████████████░░+%7C+85%25;React+++++++++++++++%7C+██████████████████░░+%7C+92%25;AI%2FML++++++++++++++%7C+███████████████████░+%7C+90%25;Cybersecurity+++++%7C+████████████████░░░░+%7C+85%25" alt="Animated Skill Bars" />
 </p>
 
 ---
@@ -204,7 +204,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Featured+Projects+%F0%9F%94%A5" alt="Projects Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Featured+Projects+%F0%9F%94%A5" alt="Projects Header" />
 </p>
 
 ### 🤖 Auto File Generator for VS Code
@@ -277,7 +277,7 @@
   <img src="https://img.shields.io/badge/Research-4ECDC4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Research"/>
 </p>
 
-**📈 Metrics:** ⭐ Complexity: 9.5/10 | 🎯 Innovation: Very High | 📊 Research Phase
+**📈 Metrics:**  Complexity: 9.5/10 | 🎯 Innovation: Very High | 📊 Research Phase
 
 </div>
 
@@ -286,7 +286,7 @@
 ## 🏆 Achievements & Recognition
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+Achievements+%26+Trophies+%F0%9F%8F%86" alt="Achievements Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+Achievements+%26+Trophies+%F0%9F%8F%86" alt="Achievements Header" />
 </p>
 
 ### 🏅 GitHub Trophies
@@ -325,7 +325,7 @@
 ## 📊 Experience Timeline
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%85+Professional+Journey+%F0%9F%93%85" alt="Timeline Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%85+Professional+Journey+%F0%9F%93%85" alt="Timeline Header" />
 </p>
 
 <div align="center">
@@ -357,7 +357,7 @@
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%AC+Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Connect Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%AC+Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Connect Header" />
 </p>
 
 ### 📧 Contact Information
@@ -415,7 +415,7 @@
 ## 💭 Daily Inspiration
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs;%22Decode+the+AI,+Master+the+Future.%22+-+cypherpheonix07;%22Security+is+not+a+product,+but+a+process.%22+-+Bruce+Schneier" alt="Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs;%22Decode+the+AI,+Master+the+Future.%22+-+cypherpheonix07;%22Security+is+not+a+product,+but+a+process.%22+-+Bruce+Schneier" alt="Quotes" />
 </p>
 
 ---
