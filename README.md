@@ -1,11 +1,11 @@
-<!-- 🎨 HEADER WITH ANIMATED TYPING -->
+<!-- 🎨 ADVANCED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=👋+Welcome+to+My+Universe;🔮+Vibecoder+%7C+Prompt+Engineer;🧬+AI+Mechanism+Decoder;🛡️+Cybersecurity+Specialist" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=👋+Welcome+to+My+Universe;🔮+Vibecoder+%7C+Prompt+Engineer;🧬+AI+Mechanism+Decoder;🛡️+Cybersecurity+Specialist" alt="Animated Header" />
 </p>
 
 <!-- 🌟 ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=cypherpheonix07&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=00FFFF&fontAlign=50&reversal=false&stroke=00FFFF&strokeWidth=1" alt="Animated Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=350&section=header&text=cypherpheonix07&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00FFFF&fontAlign=50&reversal=false&stroke=00FFFF&strokeWidth=2" alt="Animated Banner" />
 </p>
 
 <!-- 📊 DYNAMIC STATS -->
@@ -18,7 +18,7 @@
 
 <!-- ✨ DECORATIVE DIVIDER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MWI/giphy.gif" width="60" alt="Sparkles"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MWI/giphy.gif" width="80" alt="Sparkles"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=I+don't+just+use+AI...+I+DECODE+it+%F0%9F%94%93;Building+the+future+with+code+%26+creativity+%E2%9A%A1;Cybersecurity+%2B+AI+%3D+My+Superpower+%F0%9F%9B%A1%EF%B8%8F" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=I+don't+just+use+AI...+I+DECODE+it+%F0%9F%94%93;Building+the+future+with+code+%26+creativity+%E2%9A%A1;Cybersecurity+%2B+AI+%3D+My+Superpower+%F0%9F%9B%A1%EF%B8%8F" alt="About Me" />
 </p>
 
 <div align="center">
@@ -45,39 +45,39 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1a1a2e" alt="C++"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" alt="Node.js"/>
 </p>
 
 ### 🤖 AI & Prompt Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI_Architecture-Advanced-107C10?style=for-the-badge&logo=google&logoColor=white" alt="AI Architecture"/>
-  <img src="https://img.shields.io/badge/LLM_Analysis-Specialist-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" alt="LLM Analysis"/>
-  <img src="https://img.shields.io/badge/AI_Integration-Expert-4ECDC4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI Integration"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Architecture-Advanced-107C10?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e" alt="AI Architecture"/>
+  <img src="https://img.shields.io/badge/LLM_Analysis-Specialist-FF6B6B?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a2e" alt="LLM Analysis"/>
+  <img src="https://img.shields.io/badge/AI_Integration-Expert-4ECDC4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a2e" alt="AI Integration"/>
 </p>
 
 ### 🛡️ Cybersecurity & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-Advanced-4D5BCE?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking"/>
-  <img src="https://img.shields.io/badge/SIEM-Proficient-FF6B35?style=for-the-badge&logo=security&logoColor=white" alt="SIEM"/>
-  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Advanced-4D5BCE?style=for-the-badge&logo=hack-the-box&logoColor=white&labelColor=1a1a2e" alt="Ethical Hacking"/>
+  <img src="https://img.shields.io/badge/SIEM-Proficient-FF6B35?style=for-the-badge&logo=security&logoColor=white&labelColor=1a1a2e" alt="SIEM"/>
+  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a2e" alt="Firebase"/>
 </p>
 
 ### 🎨 Design & Collaboration
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-Proficient-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-  <img src="https://img.shields.io/badge/Canva-Advanced-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-Proficient-470137?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=1a1a2e" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Canva-Advanced-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=1a1a2e" alt="Canva"/>
+  <img src="https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e" alt="VS Code"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📊 SKILL PROFICIENCY - VISUAL ANALYTICS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+Skill+Proficiency+Analytics+%F0%9F%93%88" alt="Skills Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+Skill+Proficiency+Analytics+%F0%9F%93%88" alt="Skills Header" />
 </p>
 
 ### 🎯 Technical Skills Breakdown
@@ -94,38 +94,46 @@
 
 **🤖 AI & Prompt Engineering**
 
-<img src="https://progress-bar.dev/95/?title=Prompt+Engineering&width=500&color=00FFFF&suffix=/100" alt="Prompt Engineering"/>
-<img src="https://progress-bar.dev/90/?title=AI+Mechanism+Analysis&width=500&color=FF6B6B&suffix=/100" alt="AI Analysis"/>
-<img src="https://progress-bar.dev/88/?title=LLM+Architecture+Understanding&width=500&color=4ECDC4&suffix=/100" alt="LLM"/>
-<img src="https://progress-bar.dev/92/?title=AI+Tool+Integration&width=500&color=FFE66D&suffix=/100" alt="AI Integration"/>
+| Skill | Proficiency | Level |
+|:---|:---|:---|
+| Prompt Engineering | ████████████████████ | 95% Expert |
+| AI Mechanism Analysis | ██████████████████░ | 90% Advanced |
+| LLM Architecture | █████████████████░░ | 88% Advanced |
+| AI Tool Integration | ██████████████████░ | 92% Expert |
 
 **💻 Development & Programming**
 
-<img src="https://progress-bar.dev/92/?title=React+JSX+Development&width=500&color=61DAFB&suffix=/100" alt="React"/>
-<img src="https://progress-bar.dev/87/?title=Python+Programming&width=500&color=3776AB&suffix=/100" alt="Python"/>
-<img src="https://progress-bar.dev/85/?title=JavaScript+ES6%2B&width=500&color=F7DF1E&suffix=/100" alt="JavaScript"/>
-<img src="https://progress-bar.dev/88/?title=Full+Stack+Development&width=500&color=4ECDC4&suffix=/100" alt="Full Stack"/>
+| Skill | Proficiency | Level |
+|:---|:---|:---|
+| React JSX Development | ██████████████████░ | 92% Advanced |
+| Python Programming | █████████████████░░ | 87% Advanced |
+| JavaScript ES6+ | █████████████████░░ | 85% Advanced |
+| Full Stack Development | █████████████████░░ | 88% Advanced |
 
 **🛡️ Cybersecurity**
 
-<img src="https://progress-bar.dev/85/?title=Ethical+Hacking&width=500&color=FF6B9D&suffix=/100" alt="Ethical Hacking"/>
-<img src="https://progress-bar.dev/82/?title=Threat+Detection+%26+Analysis&width=500&color=C44569&suffix=/100" alt="Threat Detection"/>
-<img src="https://progress-bar.dev/80/?title=Vulnerability+Assessment&width=500&color=F8B500&suffix=/100" alt="Vulnerability"/>
-<img src="https://progress-bar.dev/78/?title=Network+Security&width=500&color=6C5CE7&suffix=/100" alt="Network Security"/>
+| Skill | Proficiency | Level |
+|:---|:---|:---|
+| Ethical Hacking | █████████████████░░ | 85% Advanced |
+| Threat Detection & Analysis | ████████████████░░ | 82% Proficient |
+| Vulnerability Assessment | ████████████████░░ | 80% Proficient |
+| Network Security | ███████████████░░░ | 78% Intermediate |
 
 **🎨 Design & Tools**
 
-<img src="https://progress-bar.dev/85/?title=UI%2FUX+Design&width=500&color=A29BFE&suffix=/100" alt="UI/UX"/>
-<img src="https://progress-bar.dev/88/?title=Git+Version+Control&width=500&color=F05032&suffix=/100" alt="Git"/>
-<img src="https://progress-bar.dev/82/?title=Linux+System+Administration&width=500&color=FCC624&suffix=/100" alt="Linux"/>
-<img src="https://progress-bar.dev/80/?title=Docker+%26+DevOps&width=500&color=2496ED&suffix=/100" alt="Docker"/>
+| Skill | Proficiency | Level |
+|:---|:---|:---|
+| UI/UX Design | █████████████████░░ | 85% Advanced |
+| Git Version Control | █████████████████░░ | 88% Advanced |
+| Linux System Administration | ████████████████░░ | 82% Proficient |
+| Docker & DevOps | ████████████████░░ | 80% Proficient |
 
 </div>
 
 ### 📊 Overall Skill Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=donut&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" alt="Language Distribution" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=donut&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Language Distribution" height="350"/>
 </p>
 
 ---
@@ -133,7 +141,7 @@
 ## 🚀 FEATURED PROJECTS - PORTFOLIO SHOWCASE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+Featured+Projects+%F0%9F%94%A5;Real-World+Applications+%26+Innovations" alt="Projects Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Featured+Projects+%F0%9F%94%A5;Real-World+Applications+%26+Innovations" alt="Projects Header" />
 </p>
 
 ### 🤖 Auto File Generator for VS Code
@@ -161,6 +169,8 @@
 - 🎯 **Innovation**: High (AI-Driven)
 - 📦 **Scalability**: Excellent
 - 🔒 **Security**: Enterprise-Grade
+
+**🔗 Links:** [View Repository](#) | [Live Demo](#) | [Documentation](#)
 
 </div>
 
@@ -192,6 +202,8 @@
 - 📦 **Scalability**: Very Good
 - 🔒 **Security**: OAuth 2.0 Secured
 
+**🔗 Links:** [View Repository](#) | [Live Demo](#) | [Documentation](#)
+
 </div>
 
 ---
@@ -222,6 +234,8 @@
 - 📦 **Scalability**: Research Phase
 - 🔒 **Security**: N/A (Analysis Tool)
 
+**🔗 Links:** [View Repository](#) | [Research Paper](#) | [Documentation](#)
+
 </div>
 
 ---
@@ -229,31 +243,31 @@
 ## 📈 GITHUB ANALYTICS - COMPREHENSIVE DASHBOARD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard+%F0%9F%93%8A;Performance+Metrics+%26+Insights" alt="Analytics Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard+%F0%9F%93%8A;Performance+Metrics+%26+Insights" alt="Analytics Header" />
 </p>
 
 ### 📊 Overall Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypherpheonix07&show_icons=true&theme=dark&hide_border=true&title_color=00FFFF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=🔥+GitHub+Profile+Stats&hide=contribs,issues" alt="GitHub Stats" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cypherpheonix07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=🔥+GitHub+Profile+Stats&hide=contribs,issues" alt="GitHub Stats" height="230"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=compact&theme=dark&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&custom_title=💻+Top+Languages&langs_count=8" alt="Top Languages" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&custom_title=💻+Top+Languages&langs_count=8" alt="Top Languages" height="230"/>
 </p>
 
 ### 🔥 Activity & Consistency
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cypherpheonix07&theme=dark&hide_border=true&fire=FF6B6B&ring=00FFFF&side=00FFFF&dates=FFFFFF&background=0d1117&currStreakLabel=4ECDC4" alt="Streak Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cypherpheonix07&theme=dark" alt="Profile Details" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cypherpheonix07&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=00FFFF&side=00FFFF&dates=FFFFFF&background=0d1117&currStreakLabel=4ECDC4" alt="Streak Stats" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cypherpheonix07&theme=tokyonight" alt="Profile Details" height="190"/>
 </p>
 
 ### 📅 Development Activity Breakdown
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cypherpheonix07&theme=dark" alt="Commit Languages" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypherpheonix07&theme=dark" alt="Repos per Language" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-count-in-a-day?username=cypherpheonix07&theme=dark" alt="Commits per Day" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cypherpheonix07&theme=dark&utcOffset=5.5" alt="Productive Time" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cypherpheonix07&theme=tokyonight" alt="Commit Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypherpheonix07&theme=tokyonight" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-count-in-a-day?username=cypherpheonix07&theme=tokyonight" alt="Commits per Day" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cypherpheonix07&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180"/>
 </p>
 
 ### 📊 Contribution Graph
@@ -267,13 +281,13 @@
 ## 🏆 ACHIEVEMENTS & RECOGNITION
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+Achievements+%26+Trophies+%F0%9F%8F%86;Recognition+%26+Milestones" alt="Achievements Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+Achievements+%26+Trophies+%F0%9F%8F%86;Recognition+%26+Milestones" alt="Achievements Header" />
 </p>
 
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cypherpheonix07&theme=dark&no-frame=false&no-bg=false&margin-w=4&column=7&row=2&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cypherpheonix07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=2&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
 </p>
 
 ### 📜 Certifications & Credentials
@@ -306,26 +320,30 @@
 ## 📊 EXPERIENCE TIMELINE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%93%85+Professional+Journey+%F0%9F%93%85" alt="Timeline Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%85+Professional+Journey+%F0%9F%93%85" alt="Timeline Header" />
 </p>
 
 <div align="center">
 
-**🔐 Cybersecurity Training and Research**  
-*Cybersecurity Researcher (Independent Practice)*  
+### 🔐 Cybersecurity Training and Research
+**Cybersecurity Researcher (Independent Practice)**  
 📅 Dec 2024 - Jan 2025 | 🌐 Remote/Online
 
 - Conducted real-time cyber threat analysis & vulnerability scanning
 - Practiced phishing detection & network security protocols
 - Applied AI tools for automated threat detection
+- **Tools Used**: SIEM, IDS/IPS, Nmap, Wireshark, Metasploit
 
-**🖥️ SOC Simulation and Analysis**  
-*SOC Analyst (Simulated Environment)*  
+---
+
+### 🖥️ SOC Simulation and Analysis
+**SOC Analyst (Simulated Environment)**  
 📅 Jun 2025 - Jul 2025 | 🌐 Remote/Online
 
 - Simulated Security Operations Center (SOC) workflows
 - Threat monitoring, incident response, and log analysis
 - Utilized SIEM & intrusion detection systems
+- **Tools Used**: Splunk, ELK Stack, OSSEC, Snort
 
 </div>
 
@@ -334,7 +352,7 @@
 ## 🌐 CONNECT & COLLABORATE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Connect Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%AC+Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Connect Header" />
 </p>
 
 ### 📧 Contact Information
@@ -392,14 +410,14 @@
 ## 💭 DAILY INSPIRATION
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22+-+Cory+House;%22Decode+the+AI,+Master+the+Future.%22+-+cypherpheonix07;%22Security+is+not+a+product,+but+a+process.%22+-+Bruce+Schneier" alt="Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs;%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22+-+Cory+House;%22Decode+the+AI,+Master+the+Future.%22+-+cypherpheonix07;%22Security+is+not+a+product,+but+a+process.%22+-+Bruce+Schneier" alt="Quotes" />
 </p>
 
 ---
 
 <!-- 🎨 FOOTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MWI/giphy.gif" width="50" alt="Sparkles"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MWI/giphy.gif" width="60" alt="Sparkles"/>
 </p>
 
 <p align="center">
