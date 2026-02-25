@@ -1,135 +1,219 @@
-<h1 align="center">Hi 👋, I'm Puli Naga Venkata Lalitha Kesava Phanindhra</h1>
-<h3 align="center">Cybersecurity Researcher | AI-Prompt Engineer | AI Model Analyst | Full-Stack Developer (React)</h3>
+# 👋 Hello, I'm Puli Naga Venkata Lalitha Kesava Phanindhra
 
-<p align="center">
-  <a href="https://github.com/BinaryGenius56"><img src="https://img.shields.io/github/followers/BinaryGenius56?label=Follow&style=social"></a>
-  <a href="mailto:puli48752@gmail.com"><img src="https://img.shields.io/badge/Gmail-puli48752@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="mailto:ramsidhu810@gmail.com"><img src="https://img.shields.io/badge/Alternate-ramsidhu810@gmail.com-blue?style=flat&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/Phone-%2B91%2095000%2009674-green?style=flat&logo=whatsapp">
-</p>
+## 🎯 AI Prompt Engineer | AI Model Analyst | Full Stack Developer | Cybersecurity Enthusiast
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypherpheonix07&show_icons=true&theme=gradient&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/cypherpheonix07)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07&layout=compact&theme=gradient&hide_border=false)](https://github.com/cypherpheonix07)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cypherpheonix07&theme=gradient&hide_border=false)](https://github.com/cypherpheonix07)
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 💼 Professional Roles
 
-<!-- Replace with your actual metrics image once the workflow is set up -->
-<!-- For automatic daily updates, use the lowlighter/metrics action as described earlier -->
-<img src="https://raw.githubusercontent.com/BinaryGenius56/BinaryGenius56/main/github-metrics.svg" alt="Metrics" width="100%">
+### 🤖 AI Prompt Engineer
+- Expert in crafting optimized prompts for LLMs and AI models
+- Specialized in prompt engineering for ChatGPT, Claude, and open-source models
+- Developing AI-driven automation workflows and intelligent systems
 
----
+### 📈 AI Model Analyst
+- Analyzing and optimizing AI model performance
+- Implementing AI solutions for real-world applications
+- Research in machine learning algorithms and neural networks
 
-## 🎓 Education
-
-**Panimalar Engineering College**, Chennai  
-B.Tech in Computer Science and Business System (CSBS)  
-*Aug 2023 – May 2027*
-
----
-
-## 💼 Experience
-
-### 🔐 Cybersecurity Researcher (Independent Practice)
-*Self-Led Training & Research*  
-- Conducted real‑time cyber threat analysis, vulnerability scanning, and risk assessment through hands‑on labs and simulations.  
-- Practiced phishing detection, network scanning, and endpoint protection using industry‑standard tools and virtual environments.
-
-### 🛡️ SOC Analyst (Simulated Environment)
-*Self-Directed SOC Simulation* | *Jun 2025 – Jul 2025*  
-- Simulated Security Operations Center workflows, including threat monitoring, incident response, and log analysis.  
-- Utilized SIEM, intrusion detection systems, and endpoint security platforms to triage and analyze security events.
-
-### 🤖 AI Prompt Engineer / AI Model Analyst (Self‑Research)
-*Applied AI in Cybersecurity*  
-- Designed and optimized prompts for LLMs to automate threat intelligence gathering and phishing simulation.  
-- Evaluated AI models for vulnerability detection and penetration testing, integrating them into custom security tools.  
-- Researched AI‑driven attack patterns (prompt injection, model evasion) to develop defensive strategies.
+### 🔐 Cybersecurity Researcher
+- Self-led cybersecurity training with focus on threat detection
+- Ethical hacking and vulnerability assessment
+- SOC simulation and security operations
 
 ---
 
-## 🚀 Live Projects – 6 Working Applications
+## 🚀 6 Live Working Projects
 
-> *All projects are deployed and actively maintained – click the links to explore live demos or repositories.*
+### 1. **AI-Powered Auto File Generator for VS Code** ⭐ Featured
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** AI-assisted tool that auto-generates structured folders and files in VS Code based on user-described project ideas or templates.
+- ✨ Supports 20+ complexity levels
+- 🔄 Real-time editing and prototype generation
+- 🧠 Intelligent project overview using advanced React JSX
+- 🌟 **Tech Stack:** JavaScript, React, Node.js, VS Code API
 
-### 1. 🧠 AI-Powered Auto File Generator for VS Code
-An intelligent tool that auto‑generates project structures and files in VS Code based on natural language descriptions.  
-- **Tech:** React JSX, Node.js, OpenAI API  
-- **Features:** 20+ complexity levels, real‑time editing, prototype generation, smart project overview.  
-- **[Live Demo](#)** | **[Repository](#)**
+### 2. **GitHub VS Code Sync Tool** 🔥 Popular
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** Dynamic interface bridging GitHub repositories with VS Code for real-time synchronization.
+- 🔄 Real-time sync and auto-update
+- 🔐 Secure login integration with OAuth
+- 📦 Automated fetch/push features
+- 💾 Firebase backend storage
+- 🌟 **Tech Stack:** JavaScript, Firebase, GitHub API, VS Code Extension API
 
-### 2. 🔄 GitHub ↔ VS Code Sync Tool
-A dynamic interface bridging GitHub repositories with VS Code, enabling real‑time sync and auto‑updates.  
-- **Tech:** React, Firebase, GitHub OAuth  
-- **Features:** Repository overview, secure login, automated fetch/push, temporary backend storage.  
-- **[Live Demo](#)** | **[Repository](#)**
+### 3. **AI Prompt Engineering Studio** 🎯 New
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** Comprehensive platform for creating, testing, and optimizing AI prompts across multiple models.
+- 🎨 Visual prompt builder with templates
+- 📊 A/B testing for prompt effectiveness
+- 📈 Analytics dashboard for prompt performance
+- 🤖 Support for GPT-4, Claude, Llama models
+- 🌟 **Tech Stack:** React, TypeScript, OpenAI API, Anthropic API
 
-### 3. 🎣 Phishing Detection & Awareness Simulator
-A web app that simulates phishing attacks and educates users on identifying malicious emails/links.  
-- **Tech:** Python (Flask), Machine Learning (NLP), React  
-- **Features:** Real‑time URL analysis, email header inspection, interactive training modules.  
-- **[Live Demo](#)** | **[Repository](#)**
+### 4. **AI Model Performance Analyzer** 📊 Analytics
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** Advanced analytics tool for monitoring and optimizing AI model performance metrics.
+- 📉 Real-time performance monitoring
+- 🎯 Accuracy and efficiency metrics
+- 🔍 Model comparison tools
+- 💡 Optimization recommendations
+- 🌟 **Tech Stack:** Python, TensorFlow, PyTorch, FastAPI, React
 
-### 4. 🕸️ AI‑Enhanced Vulnerability Scanner
-Automated scanner that uses AI to prioritize vulnerabilities and suggest remediation steps.  
-- **Tech:** Python, Nmap, OpenAI GPT, Streamlit  
-- **Features:** Network discovery, CVE mapping, risk scoring, natural language reports.  
-- **[Live Demo](#)** | **[Repository](#)**
+### 5. **CyberThreat Detection System** 🛡️ Security
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** AI-powered threat detection system with real-time monitoring and incident response.
+- 🚨 Real-time threat detection
+- 🎯 Phishing, malware, and intrusion detection
+- 📊 SIEM integration
+- 🔐 Endpoint protection
+- 🌟 **Tech Stack:** Python, Machine Learning, SIEM Tools, Network Security
 
-### 5. 📊 SOC Automation Dashboard
-A unified dashboard for security monitoring, alert triage, and incident response simulation.  
-- **Tech:** React, D3.js, Elasticsearch (mock)  
-- **Features:** Real‑time log visualisation, custom alert rules, playbook automation.  
-- **[Live Demo](#)** | **[Repository](#)**
-
-### 6. 🧪 Cyber Threat Intelligence Feed Aggregator
-Aggregates and summarizes threat feeds from multiple OSINT sources using AI.  
-- **Tech:** Python (Scrapy, Transformers), React, FastAPI  
-- **Features:** Real‑time IOCs, sentiment analysis, threat actor tracking.  
-- **[Live Demo](#)** | **[Repository](#)**
+### 6. **Smart UI/UX Design System** 🎨 Design
+**🔗 Live Demo:** https://github.com/cypherpheonix07-lang/cypherpheonix07  
+**📝 Description:** AI-assisted design system with automated component generation and accessibility checks.
+- 🎨 AI-powered design suggestions
+- ♿ Automated accessibility testing
+- 📱 Responsive component library
+- 🔄 Figma, Adobe XD integration
+- 🌟 **Tech Stack:** Figma API, React, Styled Components, AI/ML
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks:**  
-  HTML, CSS, JavaScript, React JSX, Python (basic), Node.js  
-- **AI & Prompt Engineering:**  
-  Prompt design for LLMs (GPT, Claude), AI model evaluation, LangChain basics  
-- **Cybersecurity:**  
-  Threat analysis, vulnerability scanning (Nessus, Nmap), SIEM (Splunk, ELK), phishing simulation, incident response  
-- **Tools & Platforms:**  
-  VS Code, Git, Firebase, Figma, Adobe XD, Canva, Kali Linux, Wireshark, Metasploit  
-- **Soft Skills:**  
-  Research, problem‑solving, team collaboration, communication
+### Programming Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 
 ---
 
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
-- **Udemy** – Mastering Linux  
-- **Udemy** – Identify and Prevent Phishing Attacks  
-- **NASSCOM** – Cybersecurity for Beginners  
-- **Self‑Certified** – Proficient in Black Hat & White Hat Hacking methodologies (reconnaissance, exploitation, post‑exploitation)  
-- **Self‑Certified** – Familiar with various cyber attacks (SQLi, XSS, phishing, spoofing, DDoS)  
-- **Self‑Certified** – Research & application of AI tools in cybersecurity (automated threat detection, vulnerability scanning, penetration testing simulations)
+- ✅ **Udemy** - Mastering Linux
+- ✅ **Udemy** - Identify and Prevent Phishing Attacks
+- ✅ **NASSCOM** - Cybersecurity for Beginners
+- ✅ **Self-Certified** - Black Hat & White Hat Hacking Methodologies
+- ✅ **Self-Certified** - Cyber Attacks (SQL Injection, XSS, Phishing, DDoS)
+- ✅ **Self-Certified** - AI Tools in Cybersecurity
+
+---
+
+## 🏆 Achievements
+
+- 🌟 Proficient in frontend development with React JSX and modern frameworks
+- 🤖 Conducted independent research on AI tools and automation workflows
+- 🔐 Intermediate-level skills in ethical hacking and cybersecurity
+- 🎨 Freelanced as UI/UX designer using Figma, Adobe XD, and Canva
+- 🛡️ Applied cybersecurity knowledge in real-world scenarios
+
+---
+
+## 📚 Education
+
+**B.Tech in Computer Science and Business System (CSBS)**  
+🎓 Panimalar Engineering College, Chennai  
+📅 Aug 2023 - May 2027  
+📍 Chennai, Tamil Nadu
+
+---
+
+## 💼 Experience
+
+### Self-Led Cybersecurity Training and Research
+**Cybersecurity Researcher (Independent Practice)**  
+📅 Dec 2024 - Jan 2025 | 🌐 Remote/Online
+- Conducted real-time cyber threat analysis, vulnerability scanning, and risk assessment through hands-on labs and simulations
+- Practiced phishing detection, network scanning, and endpoint protection using industry-standard tools and virtual environments
+
+### Self-Directed SOC Simulation and Analysis
+**SOC Analyst (Simulated Environment)**  
+📅 Jun 2025 - Jul 2025 | 🌐 Remote/Online
+- Simulated Security Operations Center (SOC) workflows, including threat monitoring, incident response, and log analysis
+- Utilized tools such as SIEM, intrusion detection systems, and endpoint security platforms to triage and analyze security events
 
 ---
 
 ## 🌐 Social Engagements
 
-- **AI Communities:** Active contributor, building small‑scale AI‑driven projects and participating in technical discussions.  
-- **Sports:** Zonal‑level competitor in Chess, Cricket, Swimming, Athletics (Running), and Kabaddi.
+### Member Active Contributor
+- Active contributor to AI communities
+- Involved in building small-scale AI-driven projects
+- Participating in discussions and knowledge sharing
+
+### Sports Engagements
+🏆 Zonal-level Chess, Cricket, Swimming, Athletics (Running), and Kabaddi
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cypherpheonix07&theme=react-dark&hide_border=false)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/BinaryGenius56" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:puli48752@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:ramsidhu810@gmail.com"><img src="https://img.shields.io/badge/Alternate%20Email-ramsidhu810%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puli4875@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cypherpheonix07)
+
+📧 **Email:** puli4875@gmail.com | ramsidhu810@gmail.com  
+📱 **Phone:** +91 95000 09674  
+🔗 **GitHub:** https://github.com/cypherpheonix07
 
 ---
 
-⭐️ From [BinaryGenius56](https://github.com/BinaryGenius56)
+## 📈 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=cypherpheonix07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+### 🎓 Currently Learning
+- Advanced AI/ML Model Optimization
+- Deep Learning Architectures
+- Cloud Security & DevSecOps
+- Prompt Engineering Advanced Techniques
+
+### 💡 Interests
+- Artificial Intelligence & Machine Learning
+- Cybersecurity & Ethical Hacking
+- Full Stack Development
+- UI/UX Design
+- AI Model Analysis & Optimization
+
+---
+
+<p align="center">
+  <em>
+    "Innovation distinguishes between a leader and a follower" - Steve Jobs
+  </em>
+</p>
+
+<p align="center">
+  Made with ❤️ by <strong>Puli Naga Venkata Lalitha Kesava Phanindhra</strong><br>
+  Register No: 211423244154
+</p>
