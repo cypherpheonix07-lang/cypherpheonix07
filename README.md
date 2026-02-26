@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/cypherpheonix07-lang">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Welcome+to+My+Profile;%F0%9F%A4%96+AI+Prompt+Engineer+%7C+AI+Model+Analyst;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%9A%80+Building+Intelligent+Solutions" alt="Animated Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=👋+Welcome+to+My+Profile;🤖+AI+Prompt+Engineer+%7C+AI+Model+Analyst;💻+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🚀+Building+Intelligent+Solutions" alt="Animated Typing" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 <p align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=cypherpheonix07-lang&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=00FF88&style=for-the-badge&logo=github)](https://github.com/cypherpheonix07-lang)
-  [![GitHub Followers](https://img.shields.io/github/followers/cypherpheonix07-lang?label=%E2%AD%90+Followers&style=for-the-badge&logo=github&color=FFD700)](https://github.com/cypherpheonix07-lang)
-  [![GitHub Stars](https://img.shields.io/github/stars/cypherpheonix07-lang?label=%F0%9F%8C%9F+Stars&style=for-the-badge&logo=github&color=FF6B6B)](https://github.com/cypherpheonix07-lang)
+  [![Profile Views](https://komarev.com/ghpvc/?username=cypherpheonix07-lang&label=👁️+Profile+Views&color=00FF88&style=for-the-badge&logo=github)](https://github.com/cypherpheonix07-lang)
+  [![GitHub Followers](https://img.shields.io/github/followers/cypherpheonix07-lang?label=⭐+Followers&style=for-the-badge&logo=github&color=FFD700)](https://github.com/cypherpheonix07-lang)
+  [![GitHub Stars](https://img.shields.io/github/stars/cypherpheonix07-lang?label=🌟+Stars&style=for-the-badge&logo=github&color=FF6B6B)](https://github.com/cypherpheonix07-lang)
 
 </p>
 
@@ -45,6 +45,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%8E%AF+Professional+Expertise" alt="🎯 Professional Expertise" />
 </p>
 
+
 <div align="center">
   
 | **🤖 AI Prompt Engineer** | **📈 AI Model Analyst** | **💻 Full Stack Dev** | **🔐 Cybersecurity** |
@@ -62,6 +63,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%8A+GitHub+Statistics+Dashboard" alt="📊 GitHub Statistics Dashboard" />
 </p>
+
 
 <!-- Row 1: Main Stats + Streak -->
 <p align="center">
@@ -89,6 +91,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+6+Live+Working+Projects" alt="🚀 6 Live Working Projects" />
 </p>
+
 
 <!-- Project 1 -->
 ### 1. ⭐ **AI-Powered Auto File Generator for VS Code**
@@ -254,6 +257,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills+Matrix" alt="🛠️ Technical Skills Matrix" />
 </p>
 
+
 <!-- Programming Languages with Animation -->
 <details open>
   <summary><h3>💻 Programming Languages & Frameworks</h3></summary>
@@ -347,6 +351,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%9C+Certifications+%26+Credentials" alt="📜 Certifications & Credentials" />
 </p>
 
+
 <div align="center">
   
 | Certification | Provider | Status |
@@ -368,6 +373,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%8F%86+Key+Achievements" alt="🏆 Key Achievements" />
 </p>
 
+
 <div align="center">
   
 | Achievement | Description |
@@ -388,6 +394,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%9A+Educational+Background" alt="📚 Educational Background" />
 </p>
 
+
 <div align="center">
   
 ### 🎓 **B.Tech in Computer Science and Business System (CSBS)**
@@ -406,6 +413,7 @@ AI-assisted design system with automated component generation and accessibility 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%92%BC+Professional+Experience" alt="💼 Professional Experience" />
 </p>
+
 
 ### 🔐 **Cybersecurity Researcher** (Independent Practice)
 **📅 Dec 2024 - Jan 2025** | **🌐 Remote/Online**
@@ -435,6 +443,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%88+GitHub+Activity+%26+Contributions" alt="📈 GitHub Activity & Contributions" />
 </p>
 
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypherpheonix07-lang&theme=react-dark&hide_border=false&area=true&line=00FF88&point=FF6B6B&area_color=00FF8833" alt="Activity Graph" />
@@ -447,6 +456,7 @@ AI-assisted design system with automated component generation and accessibility 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%8C%90+Social+Engagements" alt="🌐 Social Engagements" />
 </p>
+
 
 ### 👥 **Community Involvement**
 - 🤖 Active contributor to AI communities
@@ -475,6 +485,7 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%8E%93+Currently+Learning" alt="🎓 Currently Learning" />
 </p>
 
+
 <div align="center">
   
 | Technology | Progress | Resources |
@@ -493,6 +504,7 @@ AI-assisted design system with automated component generation and accessibility 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%92%A1+Interests+%26+Passions" alt="💡 Interests & Passions" />
 </p>
+
 
 <div align="center">
   
@@ -513,6 +525,7 @@ AI-assisted design system with automated component generation and accessibility 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%AB+Connect+With+Me" alt="📫 Connect With Me" />
 </p>
+
 
 <div align="center">
   
@@ -538,10 +551,11 @@ AI-assisted design system with automated component generation and accessibility 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%93%8A+Profile+Statistics" alt="📊 Profile Statistics" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cypherpheonix07-lang&label=%F0%9F%91%81%EF%B8%8F+Total+Profile+Views&color=00FF88&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/cypherpheonix07-lang?label=%F0%9F%8C%9F+Total+Stars&style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/cypherpheonix07-lang/cypherpheonix07?label=%F0%9F%93%A6+Repo+Size&style=for-the-badge&color=4ECDC4" alt="Repo Size" />
+  <img src="https://komarev.com/ghpvc/?username=cypherpheonix07-lang&label=👁️+Total+Profile+Views&color=00FF88&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/cypherpheonix07-lang?label=🌟+Total+Stars&style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/cypherpheonix07-lang/cypherpheonix07?label=📦+Repo+Size&style=for-the-badge&color=4ECDC4" alt="Repo Size" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
