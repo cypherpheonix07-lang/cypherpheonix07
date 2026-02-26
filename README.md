@@ -74,7 +74,7 @@
 
 <!-- Row 2: Languages + Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07-lang&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=FF6B6B&border_color=00FF88" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07-lang&layout=donut&theme=radical&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=FF6B6B&border_color=00FF88" alt="Top Languages" height="200" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypherpheonix07-lang&theme=react-dark&hide_border=true&area=true&line=00FF88&point=FF6B6B&area_color=00FF8833&color=FFFFFF&title_color=00FF88&bg_color=0D1117" alt="Activity Graph" height="200" />
 </p>
