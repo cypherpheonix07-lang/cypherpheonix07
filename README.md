@@ -67,14 +67,14 @@
 
 <!-- Row 1: Main Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypherpheonix07-lang&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,contributions,prs_merged,prs_merged_percentage&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&border_color=00FF88" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cypherpheonix07-lang&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,contributions,prs_merged,prs_merged_percentage&bg_color=0D1117&title_color=D0D221&text_color=00FF00&icon_color=00FF00&border_color=333333" alt="GitHub Stats" height="200" />
   
-  <img src="https://streak-stats.demolab.com?user=cypherpheonix07-lang&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&border=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFD700&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FF6B6B" alt="GitHub Streak" height="200" />
+  <img src="https://streak-stats.demolab.com?user=cypherpheonix07-lang&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&border=333333&ring=00FF00&fire=00FF00&currStreakLabel=D0D221&sideNums=00FF00&sideLabels=D0D221&dates=FFFFFF&currStreakNum=00FF00" alt="GitHub Streak" height="200" />
 </p>
 
 <!-- Row 2: Languages + Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07-lang&layout=donut&theme=radical&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=FF6B6B&border_color=00FF88" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpheonix07-lang&layout=donut&theme=radical&hide_border=false&langs_count=6&bg_color=0D1117&title_color=D0D221&text_color=00FF00&border_color=1F2428" alt="Top Languages" height="200" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypherpheonix07-lang&theme=react-dark&hide_border=true&area=true&line=00FF88&point=FF6B6B&area_color=00FF8833&color=FFFFFF&title_color=00FF88&bg_color=0D1117" alt="Activity Graph" height="200" />
 </p>
